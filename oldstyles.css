@@ -1,0 +1,90 @@
+         body {background-color: rgb(255, 255, 154);
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                color: #575757 ;
+            }
+            ol {
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                font-weight: 200;
+                font-size: 18px;
+            }
+            ul {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+            }
+            li
+            {
+                font-size: 14px;
+                font-style: italic;
+                font-weight: normal;
+            }
+            a{
+                color: rgb(128, 0, 0);
+                text-decoration: none;
+            }
+
+            a:hover {
+                text-decoration: underline;
+                font-weight: bold;
+                font-size: 32px;
+            }
+            a:visited {
+            color: purple}
+
+
+
+            .resumelistheading {
+                font-weight: bold;
+                font-style: normal;
+
+            }
+            .underline {text-decoration: underline;}
+            .bold {font-weight: bold;}
+            .justify {
+                text-align: justify;
+            }
+            .centered {
+                text-align: center;
+
+            }
+
+            .homebg {
+                background-image: url('Images/Background.JPG');
+                background-position: bottom right;
+                background-size: auto;
+            }
+
+            .urmomlol:hover {
+                font-size: 100px;
+                text-decoration: underline;
+
+            }
+
+
+            .box1 {border-width: 1px;
+            border-style: solid;
+            border-color: rgb(106, 248, 106);
+            border-bottom: dotted 5px pink;
+            }
+
+            .box2 {
+                padding: 5px;
+            }
+
+            .box3 {
+                margin: 50px;
+
+            }
+
+            .box4 {
+                padding-left: 10px;
+                margin: 100px;
+                border-right: solid 5px blue;
+
+            }
+            .box5
+            {
+                padding: 2px;
+                border: solid 2px royalblue;
+                text-align: center;
+            }

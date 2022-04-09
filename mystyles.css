@@ -1,0 +1,117 @@
+.bg1 {
+    background-color: blanchedalmond;
+}
+
+.subtitle {
+    text-align: center;
+    font-style: bold;
+
+    
+    
+}
+
+.photos {
+    padding: 1px;
+    border: solid 10px purple;
+    border-bottom: solid 12px purple;
+    border-top: solid 12px purple;
+    margin: auto;
+}
+
+.subscript {
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+
+}
+
+.end {
+    text-align: end;
+}
+
+.exciting {
+    font-style: italic;
+    color: orange;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.centerit {
+    text-align: center;
+}
+
+
+.bgresume {
+    background-color: black;
+    color: white;
+}
+
+.subscript1 {
+    font-size: 18px;
+    text-align: left;
+    margin: 20px;
+
+}
+
+.exciting1 {
+    font-style: bold;
+    color: red;
+    text-align: center;
+    font-size: 34px;
+    border-top: solid black 2px;
+    padding-top: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+.exciting2 {
+    font-style: bold;
+    color: red;
+    text-align: center;
+    font-size: 34px;
+
+}
+
+.border {
+    border-bottom: solid black 2px;
+}
+
+.centerimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+a{
+    color: rgb(0, 195, 255);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 32px;
+}
+a:visited {
+color: purple;
+background-color: antiquewhite;
+}
+
+.footer {
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    color: #999999;
+    text-align: center;
+    position: fixed;
+}
+
+.indexsubtitle {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italics;
+    color: #ff00c3;
+    font-size: 24px;
+}
