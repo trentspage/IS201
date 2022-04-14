@@ -19,6 +19,7 @@ body {
         z-index: 2;
         border-bottom: solid 1px #555555;
         position: relative;
+        font-size: 24px;
 }
 
 .leftmenu {
@@ -70,6 +71,7 @@ body {
 
 .subheader {
     float: right;
+    font-size: 16px;
 
 }
 
